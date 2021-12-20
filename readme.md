@@ -1,1 +1,1 @@
-This is MyApp sample for got tutorial.
+This is MyApp sample for git tutorial.
