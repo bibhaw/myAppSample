@@ -1,0 +1,1 @@
+This is MyApp sample for got tutorial.
